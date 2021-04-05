@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 class minhaClasse
 {
@@ -32,39 +33,41 @@ class minhaClasse
 
         int t = Convert.ToInt32(Console.ReadLine());
         double[] arrayList = new double[4];
-        int pa, pb;
-        double cpa, cpb;
+        int pa = 0;
+        int pb = 0;
+        double cpa = 0;
+        double cpb = 0;
         int anos;
 
         for (int i = 0; i < t; i++)
         {
             anos = 0;
             string[] valores = Console.ReadLine().Split();
-            pa = int.Parse(valores[0]);
-            pb = int.Parse(valores[1]);
 
-            //declare as variaveis corretamente
-            cpa = 1;
-            cpb = 1;
+            pa = (int.Parse(valores[0]));
+            pb = (int.Parse(valores[1]));
+            cpa = (double.Parse(valores[2], CultureInfo.InvariantCulture));
+            cpb = (double.Parse(valores[3], CultureInfo.InvariantCulture));
 
             while (pa <= pb)
             {
+                anos++;
 
-                //complete o while
+                pa += (int)Math.Floor((cpa / 100) * pa);
+                pb += (int)Math.Floor((cpb / 100) * pb);
 
                 if (anos > 100)
                 {
-                    //complete a condicional
+                    Console.WriteLine("Mais de 1 seculo.");
+                    break;
                 }
             }
-
             if (anos <= 100)
             {
-                //complete a condicional
+                Console.WriteLine("{0} anos.", anos);
             }
 
         }
-
     }
 
 }
