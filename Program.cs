@@ -33,7 +33,8 @@ class minhaClasse
         int t = Convert.ToInt32(Console.ReadLine());
         double[] arrayList = new double[4];
         int pa, pb;
-        double cpa, cpb;
+        double cpa = 0.0;
+        double cpb = 0.0;
         int anos;
 
         for (int i = 0; i < t; i++)
