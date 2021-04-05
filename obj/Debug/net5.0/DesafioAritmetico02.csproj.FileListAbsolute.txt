@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 F:\digitalInnovationOne\workspace\DesafioAritmetico02\bin\Debug\net5.0\DesafioAritmetico02.exe
 F:\digitalInnovationOne\workspace\DesafioAritmetico02\bin\Debug\net5.0\DesafioAritmetico02.deps.json
 F:\digitalInnovationOne\workspace\DesafioAritmetico02\bin\Debug\net5.0\DesafioAritmetico02.runtimeconfig.json
@@ -14,3 +15,20 @@ F:\digitalInnovationOne\workspace\DesafioAritmetico02\obj\Debug\net5.0\DesafioAr
 F:\digitalInnovationOne\workspace\DesafioAritmetico02\obj\Debug\net5.0\ref\DesafioAritmetico02.dll
 F:\digitalInnovationOne\workspace\DesafioAritmetico02\obj\Debug\net5.0\DesafioAritmetico02.pdb
 F:\digitalInnovationOne\workspace\DesafioAritmetico02\obj\Debug\net5.0\DesafioAritmetico02.genruntimeconfig.cache
+=======
+/Users/pacheco/Documents/workspace/DesafioAritmetico02/bin/Debug/net5.0/DesafioAritmetico02.deps.json
+/Users/pacheco/Documents/workspace/DesafioAritmetico02/bin/Debug/net5.0/DesafioAritmetico02.runtimeconfig.json
+/Users/pacheco/Documents/workspace/DesafioAritmetico02/bin/Debug/net5.0/DesafioAritmetico02.runtimeconfig.dev.json
+/Users/pacheco/Documents/workspace/DesafioAritmetico02/bin/Debug/net5.0/DesafioAritmetico02.dll
+/Users/pacheco/Documents/workspace/DesafioAritmetico02/bin/Debug/net5.0/ref/DesafioAritmetico02.dll
+/Users/pacheco/Documents/workspace/DesafioAritmetico02/bin/Debug/net5.0/DesafioAritmetico02.pdb
+/Users/pacheco/Documents/workspace/DesafioAritmetico02/obj/Debug/net5.0/DesafioAritmetico02.csprojAssemblyReference.cache
+/Users/pacheco/Documents/workspace/DesafioAritmetico02/obj/Debug/net5.0/DesafioAritmetico02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pacheco/Documents/workspace/DesafioAritmetico02/obj/Debug/net5.0/DesafioAritmetico02.AssemblyInfoInputs.cache
+/Users/pacheco/Documents/workspace/DesafioAritmetico02/obj/Debug/net5.0/DesafioAritmetico02.AssemblyInfo.cs
+/Users/pacheco/Documents/workspace/DesafioAritmetico02/obj/Debug/net5.0/DesafioAritmetico02.csproj.CoreCompileInputs.cache
+/Users/pacheco/Documents/workspace/DesafioAritmetico02/obj/Debug/net5.0/DesafioAritmetico02.dll
+/Users/pacheco/Documents/workspace/DesafioAritmetico02/obj/Debug/net5.0/ref/DesafioAritmetico02.dll
+/Users/pacheco/Documents/workspace/DesafioAritmetico02/obj/Debug/net5.0/DesafioAritmetico02.pdb
+/Users/pacheco/Documents/workspace/DesafioAritmetico02/obj/Debug/net5.0/DesafioAritmetico02.genruntimeconfig.cache
+>>>>>>> fba7ceba95da523c811fa0301e5aa4cd8c02bbc1
